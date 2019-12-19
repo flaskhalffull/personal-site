@@ -1,5 +1,3 @@
-Package                       Version
------------------------------ -------
 alembic                       1.3.2  
 astroid                       1.6.6  
 backports.functools-lru-cache 1.6.1  
